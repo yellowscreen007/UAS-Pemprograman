@@ -1,3 +1,8 @@
+# Anngota Kelompok 
+Dwiki Rasya Rahadian (200101135)
+Valentino Yoss Mahendra (200101093)
+muhammad khabib ikhwanudin (200101082)
+
 # sikamas
 web php untuk menampilkan keuangan masjid
 
