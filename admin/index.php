@@ -172,7 +172,7 @@ if (isset($_POST['submitEditKegiatan'])) {
 ### ini untuk kas.php
 if (isset($_POST['submitAddKas'])) {
     // print_r($_POST);
-     die;
+    // die;
 
     $kegiatan = $_POST['kegiatan'];
     $jenis = $_POST['jenis'];
